@@ -1,7 +1,7 @@
 <?php
 $yourName = 'Romain';
 $yourEmail = 'oxbe74@gmail.com';
-$referringPage = 'https://romainf991.promo-105.codeur.online/TEST/PortFolio/#contact';
+$referringPage = 'https://romainf991.promo-105.codeur.online/ECF/2.0/';
 
 header('Content-Type: text/xml');
 echo '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>';

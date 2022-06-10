@@ -2,7 +2,7 @@
 $yourName = 'Romain';
 $yourEmail = 'oxbe74@gmail.com'; // Mail du destinataire qui recevra l'email
 $yourSubject = '';
-$referringPage = 'https://romainf991.promo-105.codeur.online/TEST/PortFolio/#contact';
+$referringPage = 'https://romainf991.promo-105.codeur.online/ECF/2.0/';
 
 function cleanPosUrl ($str) {
 return stripslashes($str);
