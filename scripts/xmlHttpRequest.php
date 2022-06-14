@@ -1,6 +1,6 @@
 <?php
 $yourName = 'Romain';
-$yourEmail = 'oxbe74@gmail.com';
+$yourEmail = 'oxbe74@gmail.com'; // Mail du destinataire qui recevra l'email
 $referringPage = 'https://romainf991.promo-105.codeur.online/ECF/2.0/';
 
 header('Content-Type: text/xml');
